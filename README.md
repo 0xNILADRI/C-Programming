@@ -2,7 +2,7 @@
 
 If you find it helpful, hit that ⭐ button.
 
-![Preview](https://github.com/afkniladri/C-Programming/blob/main/image.jpg)
+![Preview](https://github.com/afkniladri/C-Programming/blob/main/image.jpeg)
 
 # [C Programming For Beginners - Master the C Language](https://www.udemy.com/course/c-programming-for-beginners-/)
 
